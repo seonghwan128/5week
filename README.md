@@ -32,9 +32,11 @@ $y(t) = Cx(t) + Du(t)$
 
 장점 -컴퓨터에 시키기 쉽다  
 
-![image](https://github.com/seonghwan128/5weeks/assets/144310820/a75c7781-a689-4494-b0c4-f4beffbdd383)
+![image](https://github.com/seonghwan128/5weeks/assets/144310820/a75c7781-a689-4494-b0c4-f4beffbdd383)  
 
+![image](https://github.com/seonghwan128/5weeks/assets/144310820/b70eed30-9f1b-4877-a427-92326410e6fa)
 
+![image](https://github.com/seonghwan128/5weeks/assets/144310820/368e8f03-e524-40b8-b89f-982b1d2d3fb1)
 
 
 
